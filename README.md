@@ -1,7 +1,10 @@
 # VOK
 Voice of Kiosk project, For my class
+
 This Project purpose for show that Kiosk can watch the people and speak and listen
+
 We must be show it is more easy, and can available.
+
 So we use google cloud platform and  use other paper's code
 
 # Implementation situation
