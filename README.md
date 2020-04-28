@@ -13,10 +13,17 @@ so, now we testing facenet and chatbot system
 # Detail
 
 Python = 3.6.8
+
 gtts
+
 Google Cloud Platform
+
 Numpy
+
 pyaudio
+
 shutil
+
 microstream
+
 six
